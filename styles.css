@@ -9,7 +9,7 @@ body{
 
 .preview-card{
     text-align: center;
-    height: 450px;
+    height: 457px;
     width: 355px;
     background-color: white;
     border-radius: 25px;
@@ -19,8 +19,8 @@ body{
 
 .card-img{
     border-radius: 25px;
-    margin-top: 25px;
-    width: 85%;
+    margin-top: 20px;
+    width: 90%;
    
 }
 .card-text{
