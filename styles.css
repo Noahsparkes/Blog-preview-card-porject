@@ -37,7 +37,7 @@ body {
     align-items: center;
     padding-left: 20px;
     margin-top: 20px;
-    padding-top: 30px;
+    padding-top: 10px;
 }
 
 .greg-img {
@@ -49,8 +49,8 @@ body {
 }
 
 #greg-img{
-    width: 45px;
-    height: 45px;
+    width: 40px;
+    height: 40px;
 }
 
 
@@ -67,11 +67,17 @@ body {
 
 #main-paragraph {
     color: grey;
-    font-size: 17px;
+    font-size: 19px;
 }
 
 #main-heading{
     font-size: 27px;
+}
+
+#main-heading:hover{
+  cursor: pointer;
+  color:hsl(47, 88%, 63%);
+  transition: 0.3s;
 }
 
 #greg-nameCard {
