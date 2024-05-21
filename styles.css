@@ -27,8 +27,8 @@ body {
 
     font-family: Figtree, sans-serif;
     margin-top: 20px;
-    text-align: left; 
-    padding: 0 20px; 
+    text-align: left;
+    padding: 0 20px;
 }
 
 
@@ -45,10 +45,10 @@ body {
     align-items: center;
     justify-content: center;
     padding-left: 5px;
-    
+
 }
 
-#greg-img{
+#greg-img {
     width: 40px;
     height: 40px;
 }
@@ -56,13 +56,13 @@ body {
 
 #learn-btn {
     background-color: hsl(47, 88%, 63%);
-    font-weight:750;
-    height: 30px ;
+    font-weight: 750;
+    height: 30px;
     width: 90px;
     border-radius: 5px;
     text-align: center;
     padding-top: 10px;
-    
+
 }
 
 #main-paragraph {
@@ -70,21 +70,21 @@ body {
     font-size: 19px;
 }
 
-#main-heading{
+#main-heading {
     font-size: 27px;
 }
 
-#main-heading:hover{
-  cursor: pointer;
-  color:hsl(47, 88%, 63%);
-  transition: 0.3s;
+#main-heading:hover {
+    cursor: pointer;
+    color: hsl(47, 88%, 63%);
+    transition: 0.3s;
 }
 
 #greg-nameCard {
-    font-family: Figtree, sans-serif;    
+    font-family: Figtree, sans-serif;
     margin-left: 20px;
     font-weight: 800;
-    
-    
+
+
     /*line up the namecard and the image*/
 }
