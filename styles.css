@@ -88,3 +88,11 @@ body {
 
     /*line up the namecard and the image*/
 }
+
+.attribution {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
